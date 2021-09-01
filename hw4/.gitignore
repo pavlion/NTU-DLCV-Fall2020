@@ -1,0 +1,10 @@
+# Ignore the dataset folder
+# IMPORTANT: make sure that your dataset is stored in a
+# folder with the same name as the one specified below!
+
+hw4_data/*
+__pycache__
+.ipynb_checkpoints
+pb1_pred.csv
+pb2_pred.csv
+pb3_pred.csv

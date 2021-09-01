@@ -1,0 +1,8 @@
+#Ignore the dataset
+#IMPORTANT: make sure that your dataset is stored in a folder with the same as the one specofied below
+
+hw2_data/*
+*png
+*jpg
+*ckpt
+__pycache__

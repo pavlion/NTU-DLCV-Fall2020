@@ -1,0 +1,13 @@
+{   
+    "seed": 0,
+    "epochs": 250, 
+    "learning_rate": 0.001, 
+    "train_way": 30, 
+    "val_way": 5, 
+    "shot": 1, 
+    "query": 15, 
+    "train_iter": 50, 
+    "val_iter": 400,
+    "fc_dim": 64,
+    "distance": "euclid",
+}
